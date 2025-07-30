@@ -26,6 +26,13 @@ THU-Book/
 ```
 
 
+# License
+
+- **Data License Confirmation and Author Responsibility**. 
+  - All the THU-Book Dataset (including **JSON metadata,** **download script**, and **documentation**) is distributed under the [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/) (Attribution-NonCommercial-ShareAlike) license to ensure its legitimate and widespread use. 
+  - You can **use, redistribute, and adapt it for non-commercial purposes**, as long as you (a) give appropriate credit by **citing our paper**, (b) **indicate any changes** that you've made, and (c) distribute any derivative works **under the same license**.
+- **Code License**. The code for pre-processing and training our Tender model uses the MIT license. 
+
 
 ## BibTeX
 ```
