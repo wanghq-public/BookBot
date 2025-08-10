@@ -8,7 +8,7 @@ We develop BookBot, a novel voice-interactive book manipulation pipeline to supp
 ## Download the THU-Book Dataset
 
 
-You can download **THU-Book-Dataset** from [Google Drive](https://drive.google.com/file/d/1mGTs6JEbuz8g1IOKGmzvo6EaXX9RWRxe/view?usp=sharing).
+You can download **THU-Book-Dataset** from [Google Drive](https://drive.google.com/file/d/1wicj1pK2xkSUXLXiixLycZGaZejPfyBW/view?usp=sharing).
 The data directories should like this:
 
 ```
